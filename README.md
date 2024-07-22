@@ -33,8 +33,21 @@ the measures of link importance used by the search engines (e.g.,
 Google's PageRank).)
 
 ### Relevance
-It is one of the most critical factors of SEO. The searcdh engines not only look for certain keywords but also look for clues to determine how relevant your content is to a specific search query.
+It is one of the most critical factors of SEO. The search engines not only look for certain keywords but also look for clues to determine how relevant your content is to a specific search query.
 While there is no way to track how relevant your website is, there are some
 SEO basics you can practice to cover your bases and make sure you are
 giving the search engines every possible opportunity to consider your
-website. We'll get to that in just a bit.
+website. 
+
+#### Long-Tail Concept and Theory
+In order to get your website's content to rank on search engines, you need to take the path of the least resistance.
+Trying to rank for highly traffiked keywords and terms may seem a logical approach, but it will most likely lead to lots of frustration and wasted resources.
+You will get traffic from this approach but the quality will be low doe to disinterest in what you specifically have to offer.
+
+Think of every search query as being like a snow flake - they are all different.
+There are billions more unique search queries than there are generic ones. In
+fact, if you were to add up all search engine traffic that comes from the most
+popular keywords, it would not even come close to the amount of traffic that
+comes from searches using those more unique queries. This is called the theory
+of the long-tail. 
+![longtailconcept](Long-Tail%20Concept.png)
