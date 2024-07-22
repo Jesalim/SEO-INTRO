@@ -50,7 +50,10 @@ fact, if you were to add up all search engine traffic that comes from the most
 popular keywords, it would not even come close to the amount of traffic that
 comes from searches using those more unique queries. This is called the theory
 of the long-tail. 
+
+
 ![longtailconcept](Long-Tail%20Concept.png)
+
 
 When optimizing your website for search engines, it's important to choose the right keywords. If you sell shoes, you might want your site to show up when people search for "shoe store." This is a broad keyword and is very competitive, so it can be hard to rank high for it.
 
