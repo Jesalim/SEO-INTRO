@@ -19,7 +19,7 @@ the Search Engine Results Page (SERP), chances are your website has already been
 
 
 ## What it takes To Rank
-%There are essentially 3 elements that a search engine considers when determining where to list a website on the SERP : Rank, Authority & Relevance.
+There are essentially 3 elements that a search engine considers when determining where to list a website on the SERP : Rank, Authority & Relevance.
 
 ### Rank
 Rank is the position that your website physically falls in on the SERP when a specific search query is entered.
@@ -60,5 +60,7 @@ By optimizing different pages of your website for these specific keywords, you'l
 
 ### Why are long tail keywords so effective
 ![longtail keyword](longtailkeyeffectiveness.png)
+
+
 Long-tail keywords are so effective because they target people who are looking to perform a specific action.
 By choosing tto optimize with long-tail keywords, you will it easier to rank on the search engines,drive qualified traffic, and turn that traffic into leads and customers.
