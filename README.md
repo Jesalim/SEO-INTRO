@@ -51,3 +51,14 @@ popular keywords, it would not even come close to the amount of traffic that
 comes from searches using those more unique queries. This is called the theory
 of the long-tail. 
 ![longtailconcept](Long-Tail%20Concept.png)
+
+When optimizing your website for search engines, it's important to choose the right keywords. If you sell shoes, you might want your site to show up when people search for "shoe store." This is a broad keyword and is very competitive, so it can be hard to rank high for it.
+
+Instead, you should focus on more specific keywords for each type of shoe you sell. For example, "red tennis shoes with Velcro" is a more detailed keyword. Even though fewer people search for this specific term, those who do are likely looking to buy that exact type of shoe.
+
+By optimizing different pages of your website for these specific keywords, you'll have a better chance of ranking higher on search engine results pages. Plus, people who use these detailed searches are often closer to making a purchase.
+
+### Why are long tail keywords so effective
+![longtail keyword](longtailkeyeffectiveness.png)
+Long-tail keywords are so effective because they target people who are looking to perform a specific action.
+By choosing tto optimize with long-tail keywords, you will it easier to rank on the search engines,drive qualified traffic, and turn that traffic into leads and customers.
